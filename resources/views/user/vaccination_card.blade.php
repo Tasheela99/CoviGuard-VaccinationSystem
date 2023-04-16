@@ -83,6 +83,7 @@
                 </div>
                 <hr>
                 <div class="row">
+                <div></div>
                     <div class="col">
                         <div class="mb-3 row">
                             <div class="vac-date-center"><h6>Your Vaccination Date <i class="fa-solid fa-caret-down"></i></h6></div>
